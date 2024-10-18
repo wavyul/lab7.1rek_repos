@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\LB7.1rek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A414C874-A511-4C77-9428-595BF7339278}|UnitTest7.1rek\\UnitTest7.1rek.vcxproj|D:\\project\\LB7.1rek\\UnitTest7.1rek\\UnitTest7.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A414C874-A511-4C77-9428-595BF7339278}|UnitTest7.1rek\\UnitTest7.1rek.vcxproj|solutionrelative:UnitTest7.1rek\\UnitTest7.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A556D4-AA4C-4FB6-9E2A-2CB58E92D639}|LB7.1rek\\LB7.1rek.vcxproj|D:\\project\\LB7.1rek\\LB7.1rek\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66A556D4-AA4C-4FB6-9E2A-2CB58E92D639}|LB7.1rek\\LB7.1rek.vcxproj|solutionrelative:LB7.1rek\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest7.1rek.cpp",
+              "DocumentMoniker": "D:\\project\\LB7.1rek\\UnitTest7.1rek\\UnitTest7.1rek.cpp",
+              "RelativeDocumentMoniker": "UnitTest7.1rek\\UnitTest7.1rek.cpp",
+              "ToolTip": "D:\\project\\LB7.1rek\\UnitTest7.1rek\\UnitTest7.1rek.cpp",
+              "RelativeToolTip": "UnitTest7.1rek\\UnitTest7.1rek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T21:26:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\LB7.1rek\\LB7.1rek\\main.cpp",
+              "RelativeDocumentMoniker": "LB7.1rek\\main.cpp",
+              "ToolTip": "D:\\project\\LB7.1rek\\LB7.1rek\\main.cpp",
+              "RelativeToolTip": "LB7.1rek\\main.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T21:25:55.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
